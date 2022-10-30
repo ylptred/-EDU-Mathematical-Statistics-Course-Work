@@ -1,1 +1,1 @@
-# -EDU-Mathematical-Statistics-Course-Work
+# [EDU] Mathematical Statistics Course Work
